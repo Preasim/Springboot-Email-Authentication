@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    username: nextconnect.lab@gmail.com
+    password: rlpy hjkt hncr auwt
+    properties:
+    mail.smtp.auth: true
+    mail.smtp.starttls.enable: true
+
+  redis:
+    host: localhost
+    port: 6379
